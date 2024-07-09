@@ -1,0 +1,10 @@
+# Archivos que no se subiran al git
+node_modules
+.env
+dist/
+
+# Ruta de la imagen
+/src/product/application/img/*
+!/src/product/application/img/ .gitkeep
+/src/banner/application/img/*
+!/src/banner/application/img/ .gitkeep
