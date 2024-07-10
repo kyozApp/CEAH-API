@@ -1,6 +1,6 @@
 # Archivos que no se subiran al git
 node_modules
-.env
+# .env
 dist/
 
 # Ruta de la imagen
